@@ -110,26 +110,26 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ttolo12@naver.com"
+      url: "mailto:ttolo12@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://coowooc.github.io"
+      url: "https://coowooc.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/coowooc"
+      url: "https://github.com/coowooc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/coowooc_"
+      url: "https://instagram.com/coowooc_"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/coowooc"
+      url: "https://github.com/coowooc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/coowooc_"
+      url: "https://instagram.com/coowooc_"
 
 
 # Reading Files
