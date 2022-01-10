@@ -4,7 +4,7 @@ main:
     url: https://coowooc.github.io
   # - title: "category"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "About"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
