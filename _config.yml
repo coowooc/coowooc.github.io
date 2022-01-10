@@ -105,7 +105,7 @@ author:
   name             : "chaeheejin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "If you want to be happy, be."
-  #location         : "Seoul"
+  #location         : ""
   email            :
   links:
     - label: "Email"
